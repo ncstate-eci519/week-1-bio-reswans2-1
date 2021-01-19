@@ -1,4 +1,4 @@
-# [Change to your name]
+# [Rebecca Swanson]
 
 ## About Me
-Put a brief bio here about you. Use a few **bold** and _italic_ words and maybe a [link or two](http://www.google.com).
+Hello there! I'm Rebecca. I'm in my second semester in the **Learning Design and Technology program** here at **NC State University!** I am currently working as a 5th grade teacher for [Winston-Salem Forsyth County Schools](wsfcs.k12.nc.us) at [Griffith Elementary School](wsfcs.k12.nc.us/griffithes), but hope to move into Instructional Design or work as an Instructional Technologist if I end up staying fully in education. I'm very passionate about technology in the classroom and in my life. In my _free_ time I enjoy stargazing with my binoculars and telescope, playing video games, reading, and I stream on [Twitch](twitch.tv/otterkaiju). I also love to collect _unique_ board and card games. I'm looking forward to the challenge of learning coding and programming this semester! 
